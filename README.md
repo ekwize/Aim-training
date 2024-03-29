@@ -1,7 +1,7 @@
-## Aim Training Page (HTML, CSS, JS)
+# Aim Training Page (HTML, CSS, JS)
 
 [![Jj6hO9R.gif](https://iili.io/Jj6hO9R.gif)](https://freeimage.host/)
 
-# View
+## View
 
 <https://codepen.io/ekwize/pen/PogJjNb>
