@@ -1,6 +1,6 @@
 # Aim Training Page (HTML, CSS, JS)
 
-[![Jj6hO9R.th.gif](https://iili.io/Jj6hO9R.th.gif)](https://freeimage.host/i/Jj6hO9R)
+[![gun-fail-guns.gif](https://i.postimg.cc/pd88rTQD/gun-fail-guns.gif)](https://postimg.cc/CZhd6wQ1)
 
 ## View
 
